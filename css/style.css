@@ -28,10 +28,8 @@ header {
     z-index: 1000;
 }
 
-header .logo {
-    font-weight: bolder;
-    font-size: 25px;
-    color: #333;
+header img {
+    width: 220px;
 }
 
 header .navbar ul {
